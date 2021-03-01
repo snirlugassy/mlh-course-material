@@ -1,0 +1,8 @@
+channels:
+
+dependencies:
+  - pip
+  - pip:
+    - pillow
+    - tensorflow
+    - tensorflow-gpu

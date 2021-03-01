@@ -1,0 +1,7 @@
+channels:
+
+dependencies:
+  - pip
+  - pip:
+    - seaborn
+ 

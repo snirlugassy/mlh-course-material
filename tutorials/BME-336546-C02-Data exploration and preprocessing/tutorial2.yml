@@ -1,0 +1,8 @@
+channels:
+
+dependencies:
+  - pip  
+  - pip:
+    - pathlib
+    - scikit-learn
+    - pandas

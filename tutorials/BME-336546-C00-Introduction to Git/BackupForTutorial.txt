@@ -1,0 +1,7 @@
+### (1.1) Open a new repository on GitHub
+* Add a readme file as well as .gitignore file to your repo as shown below:
+<img src="Images\OpenARepository.png" width=800>
+
+* You should now see a similar window to the one attached here:
+
+<img src="Images\InitiatedGitRepo.png" height=100>
